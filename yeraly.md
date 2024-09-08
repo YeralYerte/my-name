@@ -8,3 +8,6 @@
 
 
 __in order to add changes аrom local repositories to gitHub you have to use command__ ``` git push ```
+
+
+if you want to copy folder from gitHub, the command 'git clone' will be able to help you.
